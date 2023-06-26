@@ -17,7 +17,6 @@ max(x, y)                          ## max value among x & y
 length(x)                          
 
 
-
 ## Slice
 x[2]                               ## 2 번째
 x[-2]                              ## 2 번째만 빼고
